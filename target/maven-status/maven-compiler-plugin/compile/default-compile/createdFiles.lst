@@ -1,0 +1,4 @@
+com/georgebardas/onlineshopping/ApiController.class
+com/georgebardas/onlineshopping/objects/Product.class
+com/georgebardas/onlineshopping/OnlineshoppingApplication.class
+com/georgebardas/onlineshopping/repositories/ProductsRepository.class
